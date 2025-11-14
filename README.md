@@ -1,9 +1,9 @@
 * McGill Electrical Engineering, class of 2024
-* Prev. Software & Firmware Intern @Dcbel, Junior Electrical Design @Mulvey and Banani, RF Antenna engineer @MDA 
+* Systems Engineer @ Riverlane
 * I'm interested in:
-  *  Machine Learning and LLMs 🧑‍💻
-  *  Renewable Energy 🌎
-  *  Vertical Farming 🌱
+  *  High Performance Computing
+  *  Parallel Computing 
+  *  Quantum Computing
 
 
 
